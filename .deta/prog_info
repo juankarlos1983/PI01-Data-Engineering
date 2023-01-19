@@ -1,0 +1,1 @@
+{"id":"46b69feb-56f2-470a-b4dc-2900a065578a","space":48636,"runtime":"python3.9","name":"PI01-Data-Engineering","path":"mm78qf","project":"e0w4n9pg","account":"144798365827","region":"sa-east-1","deps":["fastapi","pandas","uvicorn"],"envs":null,"public":true,"log_level":"off","cron":""}
